@@ -7,3 +7,4 @@ This repository contains **Java** code (Training files) for the Fundamentals cou
 
 **Table of Contents;**
 1. HelloWorld.java - To display a welcome message
+2. primitiveDataTypes.java - To use the Java Primitive Data Types
